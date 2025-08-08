@@ -3,7 +3,7 @@
 🌐 Web Development Internship Project
 Internship Organization: Apexplanet Internship
 Internship Duration: 45 Days
-Intern: [MOHAMMAD AMIR SHOAIB] OFFER LETTER ID [APSPL2511976]
+Intern: [PRAKHAR TIWARI] OFFER LETTER ID -: APSPL2514407
 
 📋 Project Overview:
 This project was completed as part of the Web Development Internship at Apexplanet Internship. Throughout this internship, I worked on various tasks focusing on improving my HTML, CSS, and JavaScript skills to build interactive, responsive, and functional websites.
@@ -61,5 +61,5 @@ I sincerely thank Apexplanet Internship for offering this opportunity to learn a
 
 🙋‍♂️ About Me:
 PRAKHAR TIWARI 
-B TECH STUDENT 
+B.TECH STUDENT 
 
